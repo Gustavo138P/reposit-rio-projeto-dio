@@ -1,4 +1,4 @@
-# reposit-rio-projeto-dio :printer:
+# repositório-projeto-dio :printer:
 Repositório projeto para dio sobre Git/GitHub
 
 - ###### 1= Comandos Git
